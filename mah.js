@@ -1,0 +1,1 @@
+<script src="https://unpkg.com/mahgen/dist/index.umd.js"></script>
