@@ -23,7 +23,7 @@ $$
 
 3. 1.2 节P19，证明被抽样总体分布未知情况下的无偏估计。
 
-![image-20251021165434766](/Users/jyjs/Library/Application Support/typora-user-images/image-20251021165434766.png)
+![image-20251021165434766](./assets/image-20251021165434766.png)
 $$
 \begin{aligned}
 	设&样本均值为\mu\\
@@ -47,5 +47,5 @@ $$
 
 4. 证明Lemma 1.3.1
 
-![image-20251028171346874](/Users/jyjs/Library/Application Support/typora-user-images/image-20251028171346874.png)
+![image-20251028171346874](./assets/image-20251028171346874.png)
 
