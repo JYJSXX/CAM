@@ -25,7 +25,7 @@ def split_page_to_three(input_path, output_path, crop_boxes):
         writer.write(output_file)
 
 # 使用示例
-input_file = "1.2 离差.pdf"
+input_file = "1.4贝叶斯分类器.pdf"
 output_file = "split/" + input_file
 
 # 定义三个裁剪区域的坐标
